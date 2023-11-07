@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; align-self: auto; justify-content: space-between; align-items: flex-start;">
+        <ui:VisualElement name="Characters" style="align-self: auto; align-items: stretch; justify-content: center; transform-origin: flex-start; flex-direction: row; height: 10%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-bottom: 0; background-color: rgba(0, 0, 0, 0.2); width: 100%;" />
+        <ui:VisualElement name="SelectedChar" style="flex-grow: 1; height: 134px; align-self: flex-end; background-color: rgba(0, 0, 0, 0); flex-direction: row; flex-wrap: nowrap; justify-content: flex-start; align-items: center; min-height: auto; max-height: 30%; bottom: auto;">
+            <ui:VisualElement name="CharInfo" style="flex-grow: 1; width: 236px; height: 180px; flex-basis: auto; align-self: flex-start; max-width: 30%; min-width: initial; flex-direction: column; background-color: rgba(0, 0, 0, 0.2); max-height: 100%;" />
+            <ui:VisualElement name="Action" style="flex-grow: 1; height: 180px; max-height: 75%; min-height: 0; width: auto; align-self: flex-end; background-color: rgba(0, 0, 0, 0.2);" />
+            <ui:VisualElement name="DistanceParcouru" style="flex-grow: 1; height: 180px; min-height: 0; align-self: flex-end; width: auto; max-width: 20%; background-color: rgba(0, 0, 0, 0.2);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

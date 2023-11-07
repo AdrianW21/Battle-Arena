@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ecbc9d779b8078e40a23133266842eef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attriPerso: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - char_UIDocument: {instanceID: 0}
+  - m_UIDoc: {instanceID: 0}
+  - char_UIDoc: {instanceID: 0}
+  - camMain: {instanceID: 0}
+  - camMenu: {instanceID: 0}
+  - game: {instanceID: 0}
+  - ch1: {instanceID: 0}
+  - ch2: {instanceID: 0}
+  - ch3: {instanceID: 0}
+  - ch4: {instanceID: 0}
+  - ch5: {instanceID: 0}
+  - ch6: {instanceID: 0}
+  - Brute: {instanceID: 0}
+  - Archer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
